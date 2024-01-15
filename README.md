@@ -34,6 +34,7 @@
 - [rustypaste](https://github.com/orhun/rustypaste): A minimal file upload/pastebin service
 - [rustus](https://github.com/s3rius/rustus): A TUS protocol implementation that helps you handle file uploads
 - [gcs-proxy](https://github.com/guaychou/gcs-proxy): A Google Cloud Storage download proxy
+- [calculate-measures](https://www.calculate-measures.com): A website which offers scientifically accurate conversions between various metrics.
 
 ## Community Articles, Example Apps, Starters & Boilerplate Projects
 
